@@ -1,9 +1,6 @@
 # Jogo dos Pares
 
 ![Desafio dos Pares](./imagens_para_readme/desafio_dos_pares.png)
-![Desafio dos Pares](./desafio dos pares.android.debug.apk)
-![Desafio dos Pares](desafio dos pares.android.debug.apk)
-
 
 Este é um projeto de um jogo de memória desenvolvido para crianças neuroatipicas com idades entre 4 e 6 anos. O jogo foi desenvolvido com o objetivo de oferecer uma experiência divertida e inclusiva, levando em consideração as necessidades sensoriais dessas crianças.
 ## Funcionalidades:
