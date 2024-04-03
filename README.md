@@ -1,7 +1,6 @@
 # Jogo dos Pares
 
 ![Desafio dos Pares](./imagens_para_readme/desafio_dos_pares.png)
-*** a gente coloca o app / ou o link para onde da pra baixa tipo!!!!
 ![Desafio dos Pares](./desafio dos pares.android.debug.apk)
 ![Desafio dos Pares](desafio dos pares.android.debug.apk)
 
