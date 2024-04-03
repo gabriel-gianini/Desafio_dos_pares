@@ -4,7 +4,7 @@
 
 Este é um projeto de um jogo de memória desenvolvido para crianças neuroatipicas com idades entre 4 e 6 anos. O jogo foi desenvolvido com o objetivo de oferecer uma experiência divertida e inclusiva, levando em consideração as necessidades sensoriais dessas crianças.
 ## Funcionalidades:
-![Funcionalidades](./imagens_para_readme/desafio_dos_pares.png)
+
     Interface amigável e intuitiva, projetada para ser fácil de entender e navegar.
     Sons suaves e não perturbadores, especialmente ajustados para não sobrecarregar as crianças.
     Cores suaves e tons pastéis para uma experiência visual relaxante e confortável.
